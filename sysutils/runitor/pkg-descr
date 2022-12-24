@@ -1,0 +1,7 @@
+Runitor runs the supplied command, captures its output, and based
+on its exit code reports successful or failed execution to
+https://healthchecks.io or your private instance.
+
+Healthchecks.io is a web service for monitoring periodic tasks.
+It's like a dead man's switch for your cron jobs. You get alerted
+if they don't run on time or terminate with a failure.
