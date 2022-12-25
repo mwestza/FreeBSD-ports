@@ -1,6 +1,6 @@
---- archivebox/core/apps.py.orig	2022-12-24 07:28:57.119930000 +0000
-+++ archivebox/core/apps.py	2022-12-24 07:29:09.350757000 +0000
-@@ -3,4 +3,4 @@
+--- archivebox/core/apps.py.orig	2021-04-10 11:42:34 UTC
++++ archivebox/core/apps.py
+@@ -3,4 +3,4 @@ from django.apps import AppConfig
  
  class CoreConfig(AppConfig):
      name = 'core'
