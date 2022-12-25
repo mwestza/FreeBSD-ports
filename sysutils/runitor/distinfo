@@ -1,5 +1,5 @@
-TIMESTAMP = 1661193742
-SHA256 (go/sysutils_runitor/runitor-v0.10.1/v0.10.1.mod) = 9592dc11e1a053c3488b1236b269912ce4657df69afbdc721a225f495f691378
-SIZE (go/sysutils_runitor/runitor-v0.10.1/v0.10.1.mod) = 33
-SHA256 (go/sysutils_runitor/runitor-v0.10.1/v0.10.1.zip) = f002b6d837c01cfc0ba7cf738e61314685088c551f73ed1e18bdcceb2e965868
-SIZE (go/sysutils_runitor/runitor-v0.10.1/v0.10.1.zip) = 22926
+TIMESTAMP = 1671911870
+SHA256 (go/sysutils_runitor/runitor-v1.2.0/v1.2.0.mod) = d9faf07d32cca6e0d21d3c60a439a5b4bbbf0177c4682254be45edecda16fd2a
+SIZE (go/sysutils_runitor/runitor-v1.2.0/v1.2.0.mod) = 113
+SHA256 (go/sysutils_runitor/runitor-v1.2.0/v1.2.0.zip) = a50a46f395a59bfc947bc8f17287975976ab759f7d6af6a379c6bfc3b8ea4a70
+SIZE (go/sysutils_runitor/runitor-v1.2.0/v1.2.0.zip) = 33417

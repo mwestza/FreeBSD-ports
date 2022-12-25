@@ -1,10 +1,11 @@
 PORTNAME=	runitor
 DISTVERSIONPREFIX=	v
-DISTVERSION=	0.10.1
+DISTVERSION=	1.2.0
 CATEGORIES=	sysutils
 
 MAINTAINER=	freebsd@r.zeeb.org
 COMMENT=	Command runner with healthchecks.io integration
+WWW=		https://github.com/bdd/runitor
 
 LICENSE=	BSD0CLAUSE
 LICENSE_FILE=	${WRKSRC}/LICENSE
