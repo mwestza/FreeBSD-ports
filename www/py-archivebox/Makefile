@@ -4,7 +4,7 @@ CATEGORIES=	www python
 MASTER_SITES=	CHEESESHOP
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
 
-MAINTAINER=	freebsd@r.zeeb.org
+MAINTAINER=	mwest@freebsd.zeeb.org
 COMMENT=	Collect, save, and view sites you want to preserve offline
 WWW=		https://pypi.org/project/archivebox/
 

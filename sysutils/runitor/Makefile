@@ -3,7 +3,7 @@ DISTVERSIONPREFIX=	v
 DISTVERSION=	1.2.0
 CATEGORIES=	sysutils
 
-MAINTAINER=	freebsd@r.zeeb.org
+MAINTAINER=	mwest@freebsd.zeeb.org
 COMMENT=	Command runner with healthchecks.io integration
 WWW=		https://github.com/bdd/runitor
 
