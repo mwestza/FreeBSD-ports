@@ -19,7 +19,7 @@ RUN_DEPENDS=	${PYTHON_PKGNAMEPREFIX}croniter>=0.3.20:sysutils/py-croniter@${PY_F
 		${PYTHON_PKGNAMEPREFIX}django32>=3.1.3:www/py-django32@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}ipython>0:devel/ipython@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}mypy_extensions>=0.4.3:devel/py-mypy_extensions@${PY_FLAVOR} \
-                ${PYTHON_PKGNAMEPREFIX}python-crontab>=2.4.0:sysutils/py-python-crontab \
+		${PYTHON_PKGNAMEPREFIX}python-crontab>=2.4.0:sysutils/py-python-crontab \
 		${PYTHON_PKGNAMEPREFIX}requests>=2.24.0:www/py-requests@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}sqlite3>0:databases/py-sqlite3@${PY_FLAVOR} \
 		${PYTHON_PKGNAMEPREFIX}w3lib>=1.21.0:www/py-w3lib@${PY_FLAVOR} \
